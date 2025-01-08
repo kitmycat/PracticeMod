@@ -1,0 +1,9 @@
+name: Practice Mod
+version: '1.0-SNAPSHOT'
+main: me.kitmycat.practiceMod.PracticeMod
+api-version: '1.21'
+prefix: Coolio
+load: STARTUP
+authors: [ kitmycat (sam) ]
+description: cool things; will specify later
+website: https://solo.to/kitmycat
